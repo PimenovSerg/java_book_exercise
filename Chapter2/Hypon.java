@@ -1,4 +1,4 @@
-public class Hypon {
+class Hypon {
     public static void main(String[] args) {
         double x, y, z;
 
