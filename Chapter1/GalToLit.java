@@ -1,4 +1,4 @@
-class Solution {
+class GalToLit {
     public static void main(String[] args) {
        double gallons;
 

@@ -1,6 +1,5 @@
-import javax.sound.midi.Track;
 
-class Solution {
+class GoToLitTable {
     public static void main(String[] args) {
 
         double gallons, liters;

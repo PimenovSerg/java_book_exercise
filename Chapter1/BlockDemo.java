@@ -1,5 +1,5 @@
 
- class Solution {
+ class BlockDemo {
     public static void main(String[] args) {
        double i, j, d;
 
